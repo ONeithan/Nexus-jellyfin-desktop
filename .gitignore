@@ -1,24 +1,21 @@
-# Build
-build/
-dist/
-src/target/
-
-# Python
-__pycache__/
-*.pyc
-
-# Third-party (only mpv submodule is tracked)
-third_party/*
-!third_party/mpv
-
-# Local environment
-.env
-
-# Project-scoped MCP
-.mcp.json
-
-# IDE
-.vscode/
+## Core Build and Temp Folders
+[Ob]
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosvs
+*.suo
+*.userprefs
+.vs/
 .idea/
-*.swp
-.cache/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+## WebView2 profile data
+perfil-pobreflix/
+
+## Custom ignores for Nexus PobreFlix Desktop
+dist's/
+docs/
