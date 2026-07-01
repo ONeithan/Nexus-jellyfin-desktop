@@ -1,22 +1,27 @@
-# MIT License
+# LICENSE / LICENÇA
 
-Copyright (c) 2026 ONeithan (Nexus Jellyfin Desktop Client)
-Copyright (c) 2026 Jellyfin Desktop Project Contributors (Original Client Base & Credits)
+## English Version
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2026 ONeithan
+Concept and base architecture credits to the official Jellyfin Desktop / Jellyfin Media Player project contributors.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is provided under the following custom open-source terms:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **Permission**: You are free to view, download, study, fork, and modify this source code for personal and non-commercial purposes.
+2. **Non-Commercial Restriction**: You are strictly prohibited from selling or commercializing this software, its source code, or compiled binaries in their unmodified form. 
+3. **Derived Works (Forks)**: If you wish to fork this project, you must make significant modifications, rename the software (you cannot use the "Nexus PobreFlix" or "Nexus Jellyfin" trademarks), and distribute it under your own brand. Selling the unmodified product directly is strictly prohibited.
+4. **Disclaimer**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Versão em Português
+
+Copyright (c) 2026 ONeithan
+Créditos de conceito e arquitetura base originais aos colaboradores do projeto oficial Jellyfin Desktop / Jellyfin Media Player.
+
+Este software é fornecido sob os seguintes termos personalizados de código aberto:
+
+1. **Permissão**: Você é livre para visualizar, baixar, estudar, fazer fork e modificar este código-fonte para fins pessoais e não comerciais.
+2. **Restrição Não Comercial**: É estritamente proibido vender ou comercializar este software, seu código-fonte ou binários compilados em sua forma original e não modificada.
+3. **Trabalhos Derivados (Forks)**: Se você desejar fazer um fork deste projeto, você deve fazer modificações significativas, renomear o software (é proibido utilizar as marcas "Nexus PobreFlix" ou "Nexus Jellyfin") e distribuí-lo sob sua própria marca. A venda direta do produto não modificado é estritamente proibida.
+4. **Isenção de Responsabilidade**: O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO INFRAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
