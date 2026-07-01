@@ -29,17 +29,12 @@ Instead of the standard bulky web wrappers, this client is built as a native C# 
 
 ---
 
-## 🛠️ Installation & Compilation:
+## 🚀 Installation & How to Use:
 
-To build the standalone executable:
-
-1. Install **.NET SDK 9.0**.
-2. Open a terminal in this directory and run:
-   ```bash
-   dotnet publish -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true
-   ```
-3. Find your single-file executable at:
-   `bin/Release/net9.0-windows/win-x64/publish/NexusPobreFlix.exe`
+1. Go to the **Releases** tab on GitHub and download **`NexusJellyfinDesktop-1.0.0.0.zip`**.
+2. Extract the contents of the ZIP folder to any directory of your choice.
+3. Double-click **`NexusJellyfinDesktop.exe`** to launch the player!
+*Note: Make sure to keep all the `.dll` and `.json` files in the same folder as the `.exe` so the application functions properly.*
 
 ---
 
@@ -74,17 +69,12 @@ Em vez do reprodutor padrão pesado, este cliente foi reescrito como uma aplica�
 
 ---
 
-## 🛠️ Instalação & Compilação:
+## 🚀 Instalação & Como Usar:
 
-Para compilar o executável de produção a partir do código fonte:
-
-1. Certifique-se de ter o **.NET SDK 9.0** instalado.
-2. Abra o terminal na raiz do projeto e execute:
-   ```bash
-   dotnet publish -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true
-   ```
-3. O executável pronto estará disponível em:
-   `bin/Release/net9.0-windows/win-x64/publish/NexusPobreFlix.exe`
+1. Acesse a aba de **Releases** do repositório no GitHub e baixe o arquivo **`NexusJellyfinDesktop-1.0.0.0.zip`**.
+2. Extraia o conteúdo completo da pasta ZIP em qualquer diretório de sua escolha no seu computador.
+3. Dê dois cliques no executável **`NexusJellyfinDesktop.exe`** para iniciar o player!
+*Nota: É fundamental manter todas as DLLs e arquivos .json na mesma pasta que o executável para que o programa funcione de maneira correta.*
 
 ---
 

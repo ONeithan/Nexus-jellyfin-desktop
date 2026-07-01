@@ -40,8 +40,8 @@ Esta é a primeira versão estável do cliente desktop oficial do **Nexus PobreF
 
 ### 📦 Detalhes do Build:
 
-* **Arquivo**: `NexusPobreFlixDesktop-1.0.0.0.zip`
-* **Localização**: `dist's/NexusPobreFlixDesktop-1.0.0.0.zip`
+* **Arquivo**: `NexusJellyfinDesktop-1.0.0.0.zip`
+* **Localização**: `dist's/NexusJellyfinDesktop-1.0.0.0.zip`
 * **Versão**: `1.0.0.0`
 * **Status**: Estável e Pronta para Produção
 * **Desenvolvedor**: [ONeithan](https://github.com/ONeithan)
